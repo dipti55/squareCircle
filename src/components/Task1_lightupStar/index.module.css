@@ -1,0 +1,15 @@
+#container{
+    background-color: #141b32;
+    width: 33%;
+    height: 100vh;
+    align-items: center;
+    color: white;
+    padding-top: 0rem;
+    padding-right: 14rem;
+    padding-left: 16rem;
+    margin-left: 15%;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
